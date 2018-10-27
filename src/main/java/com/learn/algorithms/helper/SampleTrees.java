@@ -1,4 +1,6 @@
-package com.learn.algorithms;
+package com.learn.algorithms.helper;
+
+import com.learn.algorithms.model.Node;
 
 public class SampleTrees {
 

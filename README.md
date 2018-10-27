@@ -8,4 +8,9 @@
       Binary Tree Level Order Traversal
     </a>
   </li>
+  <li>
+  	<a href="/src/main/java/com/learn/algorithms/BinaryTreeLeftView.java">
+      Binary Tree Left View
+    </a>
+  </li>
 </ul>
