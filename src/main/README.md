@@ -3,8 +3,8 @@
 <p>Algorithms based on binary tree are listed below:</p>
 <ul>
   <li>
-    <a href="/src/main/java/com/learn/algorithms/BinaryTreeLevelOrderTraversal.java">
-      Binary Tree Level Order Traversal
+    <a href="README.md">
+     README.md
     </a>
   </li>
   <li>
