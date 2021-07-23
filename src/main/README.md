@@ -3,7 +3,7 @@
 <p>Algorithms based on binary tree are listed below:</p>
 <ul>
   <li>
-    <a href="README.md">
+    <a href="../../README.md">
      README.md
     </a>
   </li>
